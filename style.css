@@ -58,8 +58,15 @@ footer {
     background: #ebebeb;
     margin: 0px;
     padding-inline-start: 60px;
-    margin-top:60px;
+    margin-top:-115px;
 }
+
+p {
+    margin-top: 112px;
+
+}
+
+
 
 
 
