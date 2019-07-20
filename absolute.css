@@ -1,0 +1,34 @@
+box-set{
+    position: relative;
+    height: 400px;
+    background: darkgray;
+    text-align: center;
+}
+
+
+
+aside{
+    box-sizing: border-box;
+    text-align: center;
+    height: 346px;
+    
+}
+
+footer{
+  padding: 20px;
+  clear:both;
+  margin-top: 60px;
+}
+
+body{
+    border: 400px;
+    background-position: 100px;
+    padding: 400px;
+    text-align: center;
+
+}
+
+
+
+
+
